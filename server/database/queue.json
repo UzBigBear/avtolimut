@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1ef630af-0350-4b04-8f78-4a5a2dfa5adc",
+    "userId": "b7ffab19-59d7-4b05-b6d3-bfbdbe4f9523",
+    "userName": "UzAvto Admin",
+    "userPhone": "+998901234567",
+    "carId": "onix",
+    "carModel": "Chevrolet Onix",
+    "color": {
+      "value": "white",
+      "uz": "Oq",
+      "ru": "Белый",
+      "hex": "#f0f0f0"
+    },
+    "paymentType": "cash",
+    "notes": "",
+    "status": "confirmed",
+    "queueNumber": 1,
+    "createdAt": "2026-05-31T20:07:17.023Z",
+    "updatedAt": "2026-05-31T20:11:00.648Z"
+  },
+  {
+    "id": "bbccf4fd-0ce9-40d7-b530-402f427232bc",
+    "userId": "eff28c5d-7ce7-463f-aa90-dbd67f7fd409",
+    "userName": "Ali Saparov",
+    "userPhone": "+998912345678",
+    "carId": "onix",
+    "carModel": "Chevrolet Onix",
+    "color": {
+      "value": "blue",
+      "uz": "Ko'k",
+      "ru": "Синий",
+      "hex": "#1a5276"
+    },
+    "paymentType": "cash",
+    "notes": "",
+    "status": "completed",
+    "queueNumber": 2,
+    "createdAt": "2026-05-31T20:08:49.688Z",
+    "updatedAt": "2026-06-01T02:07:26.415Z"
+  },
+  {
+    "id": "f483ee13-efea-48a1-8404-c590203fe68a",
+    "userId": "b7ffab19-59d7-4b05-b6d3-bfbdbe4f9523",
+    "userName": "UzAvto Admin",
+    "userPhone": "+998901234567",
+    "carId": "cobalt",
+    "carModel": "Chevrolet Cobalt",
+    "color": {
+      "value": "silver",
+      "uz": "Kumush",
+      "ru": "Серебряный",
+      "hex": "#aab7b8"
+    },
+    "paymentType": "installment",
+    "notes": "",
+    "status": "confirmed",
+    "queueNumber": 1,
+    "createdAt": "2026-05-31T20:12:48.645Z",
+    "updatedAt": "2026-05-31T20:13:03.791Z"
+  }
+]

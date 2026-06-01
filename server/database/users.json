@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b7ffab19-59d7-4b05-b6d3-bfbdbe4f9523",
+    "name": "UzAvto Admin",
+    "phone": "+998901234567",
+    "password": "$2a$10$N8ywQAtAEzhLfjadp285a.sp06XkWQbzeOHVlnAWu1gdxWC4VqzV6",
+    "role": "admin",
+    "createdAt": "2026-05-31T19:50:10.488Z"
+  },
+  {
+    "id": "eff28c5d-7ce7-463f-aa90-dbd67f7fd409",
+    "name": "Ali Saparov",
+    "phone": "+998912345678",
+    "password": "$2a$10$ZN5sRG3XGTFlXzlpv.vJh.4c/DVWlVKnknryO510Y6Fl2yd7rpFTi",
+    "role": "user",
+    "createdAt": "2026-05-31T20:08:26.113Z"
+  }
+]

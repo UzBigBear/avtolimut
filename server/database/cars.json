@@ -1,0 +1,144 @@
+[
+  {
+    "id": "onix",
+    "model": "Chevrolet Onix",
+    "year": 2024,
+    "price": 18900,
+    "colors": [
+      {
+        "value": "black",
+        "uz": "Qora",
+        "ru": "Чёрный",
+        "hex": "#1c1c1e"
+      },
+      {
+        "value": "white",
+        "uz": "Oq",
+        "ru": "Белый",
+        "hex": "#f0f0f0"
+      },
+      {
+        "value": "red",
+        "uz": "Qizil",
+        "ru": "Красный",
+        "hex": "#c0392b"
+      },
+      {
+        "value": "blue",
+        "uz": "Ko'k",
+        "ru": "Синий",
+        "hex": "#1a5276"
+      },
+      {
+        "value": "silver",
+        "uz": "Kumush",
+        "ru": "Серебряный",
+        "hex": "#aab7b8"
+      }
+    ],
+    "availableCount": 45,
+    "waitingMonthsMin": 4,
+    "waitingMonthsMax": 8,
+    "description_uz": "Zamonaviy dizayn, yuqori sifat va qulay salon bilan jihozlangan premium sedan.",
+    "description_ru": "Премиальный седан с современным дизайном, высоким качеством и удобным салоном."
+  },
+  {
+    "id": "cobalt",
+    "model": "Chevrolet Cobalt",
+    "year": 2024,
+    "price": 12500,
+    "colors": [
+      {
+        "value": "black",
+        "uz": "Qora",
+        "ru": "Чёрный",
+        "hex": "#1c1c1e"
+      },
+      {
+        "value": "white",
+        "uz": "Oq",
+        "ru": "Белый",
+        "hex": "#f0f0f0"
+      },
+      {
+        "value": "blue",
+        "uz": "Ko'k",
+        "ru": "Синий",
+        "hex": "#1a5276"
+      },
+      {
+        "value": "silver",
+        "uz": "Kumush",
+        "ru": "Серебряный",
+        "hex": "#aab7b8"
+      }
+    ],
+    "availableCount": 30,
+    "waitingMonthsMin": 3,
+    "waitingMonthsMax": 6,
+    "description_uz": "Oilaviy foydalanish uchun eng qulay va tejamkor yetakchi sedan.",
+    "description_ru": "Лучший экономичный седан для семейного использования."
+  },
+  {
+    "id": "damas",
+    "model": "Chevrolet Damas",
+    "year": 2024,
+    "price": 7500,
+    "colors": [
+      {
+        "value": "white",
+        "uz": "Oq",
+        "ru": "Белый",
+        "hex": "#f0f0f0"
+      },
+      {
+        "value": "silver",
+        "uz": "Kumush",
+        "ru": "Серебряный",
+        "hex": "#aab7b8"
+      }
+    ],
+    "availableCount": 60,
+    "waitingMonthsMin": 2,
+    "waitingMonthsMax": 3,
+    "description_uz": "Biznes va yuk tashish uchun ishonchli, keng va tejamkor tijorat avtomosbili.",
+    "description_ru": "Надёжный, вместительный и экономичный коммерческий автомобиль для бизнеса."
+  },
+  {
+    "id": "tracker",
+    "model": "Chevrolet Tracker",
+    "year": 2026,
+    "price": 22800,
+    "colors": [
+      {
+        "value": "white",
+        "uz": "Oq",
+        "ru": "Белая",
+        "hex": "#ffffff"
+      },
+      {
+        "value": "red",
+        "uz": "Qizil",
+        "ru": "Красний",
+        "hex": "#e01515"
+      },
+      {
+        "value": "blue",
+        "uz": "Ko'k",
+        "ru": "Синий",
+        "hex": "#0627cb"
+      },
+      {
+        "value": "silver",
+        "uz": "Kumush",
+        "ru": "Серебро",
+        "hex": "#afacac"
+      }
+    ],
+    "availableCount": 120,
+    "waitingMonthsMin": 1,
+    "waitingMonthsMax": 3,
+    "description_uz": "Mini krasover segmentidagi premium avtomabil.",
+    "description_ru": "Mini krasover segmentidagi premium avtomabil."
+  }
+]
