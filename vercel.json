@@ -11,13 +11,6 @@
           "server/database/queue.json"
         ]
       }
-    },
-    {
-      "src": "client/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
     }
   ],
   "routes": [
